@@ -12,7 +12,7 @@
         }
     )
 
-    $('#kimBox').lord('main.html')
+    $('#kimBox').load('main.html')
 
 
 
